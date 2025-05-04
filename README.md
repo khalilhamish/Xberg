@@ -1,2 +1,0 @@
-# Xberg
-Theme wordpress 
